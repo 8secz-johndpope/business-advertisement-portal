@@ -121,9 +121,9 @@ padding: 20px;
     color: white;
 }
 #detailsPara{
-    padding-top: 10px;
     color: white;
 }
+
 #containerAdvertise {
     text-align: center;
     padding-bottom: 50px;
@@ -145,6 +145,7 @@ padding: 20px;
     width: 21.5em;
     margin:0 auto;
     text-align: center;
+    
 }
 .mb-8{
     width: 42em; 
@@ -301,5 +302,9 @@ padding: 20px;
     -webkit-box-shadow: -6px 6px 15px 5px #000000; 
     box-shadow: -6px 6px 15px 5px #000000;
 
+}
+.card-header {
+    background-color: rgba(39, 195, 247, 0.764);
+    font-weight: bold;
 }
 
